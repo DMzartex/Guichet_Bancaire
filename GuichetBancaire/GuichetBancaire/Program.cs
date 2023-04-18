@@ -6,7 +6,8 @@ namespace GuichetBancaire
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Guichet Bancaire :");
+            Console.ReadLine();
         }
     }
 }

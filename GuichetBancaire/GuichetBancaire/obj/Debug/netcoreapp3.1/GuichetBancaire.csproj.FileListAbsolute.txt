@@ -1,0 +1,14 @@
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.exe
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.deps.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.runtimeconfig.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.runtimeconfig.dev.json
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\bin\Debug\netcoreapp3.1\GuichetBancaire.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.csproj.AssemblyReference.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.AssemblyInfoInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.AssemblyInfo.cs
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.csproj.CoreCompileInputs.cache
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.dll
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.pdb
+C:\Users\Doria\Desktop\Cours\Programmation\Programmation_6TI\POO\Guichet_Bancaire\GuichetBancaire\GuichetBancaire\obj\Debug\netcoreapp3.1\GuichetBancaire.genruntimeconfig.cache
